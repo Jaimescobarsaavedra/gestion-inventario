@@ -11,8 +11,22 @@
     "firebase": "^8.0.0",
     "firebase-admin": "^9.3.0",
     "next": "9.5.5",
-    "react": "17.0.0",
+    "react": "^16.6.0",
     "react-dom": "17.0.0",
     "react-to-print": "^2.12.0"
-  }
+  },
+  "description": "Primero, ejecute el servidor de desarrollo:",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaimescobarsaavedra/gestion-inventario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaimescobarsaavedra/gestion-inventario/issues"
+  },
+  "homepage": "https://github.com/Jaimescobarsaavedra/gestion-inventario#readme"
 }
